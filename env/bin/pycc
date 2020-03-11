@@ -1,0 +1,3 @@
+#!/home/longnt/Documents/Dsoft/BingsuShop/env/bin/python
+from numba.pycc import main
+main()
